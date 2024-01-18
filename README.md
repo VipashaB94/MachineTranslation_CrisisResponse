@@ -1,6 +1,6 @@
 # Machine Translation for Pandemic Response
 
-This repository contains the code to use the Microsoft Azure and Google Cloud translation services to translate the full TICO-19 dataset from each language into English, and calculate the BLEU scores for each. My collaborator ran the same translations from English to the target languages, her results (without code) are also included here. As the TICO-19 dataset is large, running this script on the full dataset takes significant time. Therefore, toy files containing the first 10 sentences of data for each language have been provided here, in order to conveniently demonstrate the code functionality. The full dataset with all sentences can be downloaded [here](https://tico-19.github.io/).
+This repository contains the code to use the Microsoft Azure and Google Cloud translation services to translate the full TICO-19 dataset from each language into English, and calculate the BLEU scores for each. My collaborator ran the same translations from English to the target languages. As the TICO-19 dataset is large, running this script on the full dataset takes significant time. Therefore, toy files containing the first 10 sentences of data for each language have been provided here, in order to conveniently demonstrate the code functionality. The full dataset with all sentences can be downloaded [here](https://tico-19.github.io/).
 
 ## Project Overview
 
@@ -21,8 +21,8 @@ Each script iterates through a directory containing the TICO-19 files to access 
 ## Directory Contents
 + **azure_translate.py** --> Script to translate TICO-19 sentences using Microsoft Azure
 + **google_translate.py** --> Script to translate TICO-19 sentences using Microsoft Azure
-+ **tico_files** --> toy Tico-19 files that can be used to demo the code
-+ **microsoft_output** --> empty folder where output files from azure_translate.py will be saved upon running the code
-+ **google_output** --> empty folder where output files from azure_translate.py will be saved upon running the code
-+ **results** --> results obtained from translating the full TICO-19 dataset which are presented in the final report. This also includes results from translating from English into each target language (and corresponding BLEU scores), provided my collaborator. Finally, BERT and COMET scores for translations in both directions are included here - the code for these was run exclusively by my collaborator due to compatibility issues.
++ **tico_files** --> Toy Tico-19 files that can be used to demo the code
++ **microsoft_output** --> Empty folder where output files from azure_translate.py will be saved upon running the code
++ **google_output** --> Empty folder where output files from azure_translate.py will be saved upon running the code
++ **results** --> Results obtained from translating each language within the full TICO-19 dataset into English, as well as corresponding BLEU scores. which are presented in the final report. Results translating from English to the target language (obtained by my collaborator) are not included in this repository but are presented in the final report. Note: All BERT and COMET scores were run by my collaborator due to compatibility issues.
 + **final_report** --> The final paper outlining results and findings for this project.
