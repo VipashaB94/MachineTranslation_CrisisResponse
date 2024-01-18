@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	ps	about how long have these symptoms been going on?	دغه علايم له څومره مودې راهيسې ادامه لري؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and all chest pain should be treated this way especially with your age	په خاصه بیا ستاسو عمر ته په کتو سره د سینې د ټول درد باید پدې ډول درملنه وشي.	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and along with a fever	او له تبی سره	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and also needs to be checked your cholesterol blood pressure	او ستاسو د کوليسترول او وینې فشار معاینه هم باید ترسره شی.	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and are you having a fever now?	او ایا تاسو اوس تبه لرئ ؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and are you having this chest pain now?	او آیا تاسو اوس هم د سینی دا درد لرئ؟	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and besides do you have difficulty breathing	او د هغه تر څنګ ایا تاسو په ساه اخیستلو کښی ستونزه لرئ؟	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and can you tell me what other symptoms are you having along with this?	او ایا تاسو ويلی شئ چې د دې ترڅنګ نور کوم علایم لرئ؟	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and how high has your fever been	او ستاسو تبه څومره شدیده ده	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	ps	and i have a cough too	او زه ټوخی هم ورسره لرم	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk

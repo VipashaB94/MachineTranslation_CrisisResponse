@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	zu	about how long have these symptoms been going on?	cishe seziqhubeke isikhathi eside kanganani lezi zimpawu?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and all chest pain should be treated this way especially with your age	futhi bonke ubuhlungu besifuba kufanele bulashwe ngale ndlela ikakhulukazi eminyakeni okuyo	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and along with a fever	kanye nemfiva	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and also needs to be checked your cholesterol blood pressure	futhi kudingeka kuhlolwe umfutho wegazi we-cholesterol yakho	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and are you having a fever now?	ingabe unemfiva manje?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and are you having this chest pain now?	futhi ingabe unalobu buhlungu besifuba manje?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and besides do you have difficulty breathing	futhi ingabe unenkinga yokuphefumula	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and can you tell me what other symptoms are you having along with this?	futhi ungakwazi ukusho ukuthi yiziphi ezinye izimpawu onazo nalokhu?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and how high has your fever been	futhi imfiva yakho iphakame kakhulu kanganani	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001
+en	zu	and i have a cough too	futhi ngiyakhwehlela	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_zu_0001

@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+en	am	 about how long have these symptoms been going on? 	እነዚህ ምልክቶች ለምን ያህል ጊዜ ቆይተዋል?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and all chest pain should be treated this way especially with your age 	እና ሁሉም የደረት ህመሞች መታከም ያለባቸው በዚህ መንገድ ነው በተለይም በእርስዎ እድሜ	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and along with a fever 	እና ትኩሳትም አለው	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and also needs to be checked your cholesterol blood pressure 	እና የኮሌስትሮልዎ የደም ግፊትም ሊመረመር ይገባል	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and are you having a fever now? 	እና አሁን በዚህ ጊዜ ትኩሳት አለዎት?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and are you having this chest pain now? 	አሁን ይሄን የደረት ህመም አለዎት?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and besides do you have difficulty breathing 	እና በተጨማሪስ የመተንፈስ ችግር አለብዎት	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and can you tell me what other symptoms are you having along with this? 	እና ከዚህ ጋር በተያያዘ ሌላ ምን ዓይነት ምልክቶች እንዳለዎት ሊነግሩኝ ይችላሉ?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and how high has your fever been 	እና ትኩሳትዎ ምን ያህል ከፍ ብሎ ነበር	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=
+en	am	 and i have a cough too 	እና ሳልም አለኝ	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	amTk4=

@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	ckb	about how long have these symptoms been going on?	ئەم نیشانانه لە کەیەوە بوونیان هەیە؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and all chest pain should be treated this way especially with your age	وه لەگەڵ هەموو ئازارێکی سنگ دەبێت بەم شێوەیە مامەڵه بکرێت بەتایبەت لە تەمەنی تۆدا	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and along with a fever	وه لەگەڵ تا	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and also needs to be checked your cholesterol blood pressure	وه هەروەها پێویسته کۆلسترۆڵ و پەستانی خوێنت بپشکێندرێت	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and are you having a fever now?	وه ئایا ئێستا هەست بە تا دەکەی؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and are you having this chest pain now?	و ئایا ئێستا ئازاری سنگت هەیە؟	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and besides do you have difficulty breathing	و لەگەڵ ئەمانەشدا ئایا هەست بە دژواری هەناسەدان دەکەیت	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and can you tell me what other symptoms are you having along with this?	و ئایا دەتوانی پێم بڵێی لەگەڵ ئەمەدا چ نیشانەگەلێکی دیکەت هەیە؟	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and how high has your fever been	وه ئایا تاکەت چەندە بەرز دەبێتەوه	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+en	ckb	and i have a cough too	وه هەروەها دەکۆکم	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001

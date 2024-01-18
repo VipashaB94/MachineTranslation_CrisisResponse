@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	zh	 about how long have these symptoms been going on? 	 这些症状已持续多长时间？ 	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and all chest pain should be treated this way especially with your age 	 各种胸痛均应采取这种方法进行治疗，尤其要考虑年龄因素 	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and along with a fever 	 并伴有发热症状 	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and also needs to be checked your cholesterol blood pressure 	 还需要检查一下胆固醇和血压 	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and are you having a fever now? 	 您现在有发热吗？ 	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and are you having this chest pain now? 	 现在您有这种胸痛症状吗？ 	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and besides do you have difficulty breathing 	 另外您有呼吸困难吗 	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and can you tell me what other symptoms are you having along with this? 	 您能描述一下除此之外还有什么其他症状吗？ 	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and how high has your fever been 	 您发热达到多少度 	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	zh	 and i have a cough too 	 我还有咳嗽症状 	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL

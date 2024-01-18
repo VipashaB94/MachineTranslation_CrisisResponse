@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	ta	 about how long have these symptoms been going on? 	இந்த அறிகுறிகள் எவ்வளவு காலமாக இருந்து வருகின்றன?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and all chest pain should be treated this way especially with your age 	"அனைத்து மார்பு வலிகளுக்கும் இந்த வழியில் தான் சிகிச்சை அளிக்கப்பட வேண்டும், குறிப்பாக உங்கள் வயதில்"	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and along with a fever 	"மேலும், காய்ச்சலுடன்"	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and also needs to be checked your cholesterol blood pressure 	"உங்கள் இரத்தக் கொழுப்பும், இரத்த அழுத்தமும் சோதிக்கப்பட வேண்டும்"	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and are you having a fever now? 	"மேலும், உங்களுக்கு தற்போது காய்ச்சல் உள்ளதா?"	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and are you having this chest pain now? 	"மேலும், உங்களுக்கு தற்போது மார்பு வலி உள்ளதா?"	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and besides do you have difficulty breathing 	மேலும் இதைத் தவிர உங்களுக்கு மூச்சு விடுவதில் சிரமம் உள்ளதா	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and can you tell me what other symptoms are you having along with this? 	மேலும் இதனுடன் சேர்ந்து உங்களுக்கு வேறு என்ன அறிகுறிகள் தென்படுகின்றன என்று என்னிடம் நீங்கள் சொல்ல முடியுமா?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and how high has your fever been 	"மேலும், உங்கள் காய்ச்சல் எந்தளவு அதிகமாக இருந்து வருகிறது"	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg
+en	ta	 and i have a cough too 	"மேலும், எனக்கு இருமலும் உள்ளது"	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	taUkEg

@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	pt-BR	about how long have these symptoms been going on?	por aproximadamente quanto tempo esses sintomas tem ocorrido?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and all chest pain should be treated this way especially with your age	"e a dor no peito deve ser tratada assim, principalmente na sua idade"	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and along with a fever	e junto com a febre	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and also needs to be checked your cholesterol blood pressure	e também é necessário verificar seu colesterol e sua pressão sanguínea	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and are you having a fever now?	e você está com febre agora?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and are you having this chest pain now?	e está com dor no peito agora?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and besides do you have difficulty breathing	"e, além disso, você tem dificuldade para respirar?"	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and can you tell me what other symptoms are you having along with this?	e pode me dizer quais outros sintomas você está tendo além desse?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and how high has your fever been	e quanto mede a sua febre?	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+en	pt-BR	and i have a cough too	e estou tossindo também	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001

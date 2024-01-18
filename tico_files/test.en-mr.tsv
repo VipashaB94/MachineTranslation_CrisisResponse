@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	mr	about how long have these symptoms been going on?	ही लक्षणे किती दिवसांपासून दिसत आहेत?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and all chest pain should be treated this way especially with your age	"आणि छातीच्या सर्व दुखण्यांवर या पद्धतीने उपचार करायला हवा, विशेषत: आपल्या वयोगटाकरता"	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and along with a fever	आणि ताप असतानादेखील	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and also needs to be checked your cholesterol blood pressure	"आणि तुमचे कोलेस्टेरॉल, रक्तदाब तपासणेही आवश्यक आहे"	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and are you having a fever now?	आणि आता तुम्हाला ताप आहे का?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and are you having this chest pain now?	आणि आता तुमची छाती दुखत आहे का?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and besides do you have difficulty breathing	आणि तसेच तुम्हाला श्वास घेण्यास अडचण येत आहे का	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and can you tell me what other symptoms are you having along with this?	आणि तुम्ही मला सांगू शकता का की यासोबतच तुम्हाला इतर कोणती लक्षणे जाणवत आहेत का?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and how high has your fever been	आणि तुमचा ताप किती चढला होता	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+en	mr	and i have a cough too	आणि मला खोकलासुद्धा आहे	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001

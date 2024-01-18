@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	fa	about how long have these symptoms been going on?	تقریباً چه مدت است که این علایم ادامه دارد؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and all chest pain should be treated this way especially with your age	و به خصوص با توجه به سن شما، باید با تمام دردهای قفسه سینه به این شکل رفتار شود	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and along with a fever	و همراه با تب	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and also needs to be checked your cholesterol blood pressure	و همچنین نیاز است که کلسترول و فشار خون شما بررسی شود	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and are you having a fever now?	و آیا شما اکنون تب دارید؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and are you having this chest pain now?	و آیا الان هم قفسه سینه شما درد می‌کند؟	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and besides do you have difficulty breathing	و علاوه بر این، آیا در تنفس مشکل دارید	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and can you tell me what other symptoms are you having along with this?	و می‌توانید به من بگویید که در کنار این مشکل، چه علایم دیگری دارید؟	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and how high has your fever been	و تب شما چقدر بالا بوده است	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	fa	and i have a cough too	و سرفه هم می‌کنم	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk

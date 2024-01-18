@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	km	 about how long have these symptoms been going on? 	តើរោគសញ្ញាទាំងនេះបាននឹងកំពុងកើតឡើងយូរប៉ុន្មានហើយ?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and all chest pain should be treated this way especially with your age 	ហើយរាល់ការឈឺទ្រូងទាំងអស់គឺគួរតែព្យាបាលតាមវិធីនេះ ជាពិសេសព្យាបាលទៅតាមអាយុរបស់អ្នក	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and along with a fever 	និងមានគ្រុនក្តៅផងដែរ	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and also needs to be checked your cholesterol blood pressure 	ហើយក៏ត្រូវពិនិត្យសម្ពាធឈាមកូលេស្តេរ៉ុលរបស់អ្នកផងដែរ	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and are you having a fever now? 	ហើយឥឡូវនេះ អ្នកនៅតែមានជំងឺគ្រុនក្ដៅមែនទេ?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and are you having this chest pain now? 	ហើយឥឡូវនេះ តើអ្នកកំពុងតែឈឺទ្រូងដែរឬទេ?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and besides do you have difficulty breathing 	ហើយក្រៅពីនេះ តើអ្នកពិបាកដកដង្ហើមដែរឬទេ	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and can you tell me what other symptoms are you having along with this? 	ហើយអ្នកអាចប្រាប់ខ្ញុំបានទេថា តើរោគសញ្ញាអ្វីទៀតដែលអ្នកកំពុងតែមានជាមួយនឹង​វា?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and how high has your fever been 	ហើយតើកំដៅរបស់អ្នកធ្លាប់ឡើងដល់កម្រិតណា	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=
+en	km	 and i have a cough too 	ហើយខ្ញុំក៏មានក្អកដែរ	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	kmUEg=

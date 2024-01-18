@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	ru	 about how long have these symptoms been going on? 	"о том, как долго присутствуют эти симптомы?"	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and all chest pain should be treated this way especially with your age 	"и все боли в грудной клетке должны лечиться таким образом, особенно с учетом вашего возраста"	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and along with a fever 	и вместе с высокой температурой	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and also needs to be checked your cholesterol blood pressure 	и также требуется проверить уровень вашего холестерина и артериального давления	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and are you having a fever now? 	и есть ли у вас сейчас высокая температура?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and are you having this chest pain now? 	и испытываете ли вы сейчас эту боль в грудной клетке?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and besides do you have difficulty breathing 	"и, кроме того, тяжело ли вам дышать"	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and can you tell me what other symptoms are you having along with this? 	"и можете ли вы рассказать мне, какие у вас имеются другие симптомы помимо этих?"	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and how high has your fever been 	и насколько высокой была ваша температура	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03
+en	ru	 and i have a cough too 	и ещё у меня кашель	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	User 03

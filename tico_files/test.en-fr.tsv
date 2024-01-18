@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	fr	 about how long have these symptoms been going on? 	depuis combien ressentez-vous ces symptômes ?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and all chest pain should be treated this way especially with your age 	"et toutes les douleurs thoraciques doivent être traitées de cette manière, en particulier à votre âge"	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and along with a fever 	et surtout si vous avez de la fièvre	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and also needs to be checked your cholesterol blood pressure 	et votre cholestérol et votre tension doivent également être contrôlés	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and are you having a fever now? 	et avez-vous de la fièvre actuellement ?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and are you having this chest pain now? 	ressentez-vous des douleurs thoraciques actuellement?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and besides do you have difficulty breathing 	avez-vous également des difficultés à respirer?	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and can you tell me what other symptoms are you having along with this? 	pouvez-vous me dire si vous avez d'autres symptômes ?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and how high has your fever been 	et combien avez-vous eu de fièvre?	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152
+en	fr	 and i have a cough too 	et je tousse aussi	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	18152

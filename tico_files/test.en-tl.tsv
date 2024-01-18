@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+en	tl	 about how long have these symptoms been going on? 	mga gaano na katagal ang mga sintomas na ito?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and all chest pain should be treated this way especially with your age 	at lahat ng pananakit sa dibdib ay dapat na tratuhin sa ganitong paraan lalo na sa iyong edad	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and along with a fever 	at kasabay ng lagnat	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and also needs to be checked your cholesterol blood pressure 	at kailangan ding suriin ang iyong kolesterol presyon ng dugo	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and are you having a fever now? 	at may lagnat ka ba ngayon?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and are you having this chest pain now? 	at mayroon ka ba nitong pananakit sa dibdib ngayon?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and besides do you have difficulty breathing 	at bukod dito ay nahihirapan ka bang huminga	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and can you tell me what other symptoms are you having along with this? 	at maaari mo bang sabihin sa akin kung ano pang ibang sintomas ang mayroon ka na kasabay nito?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and how high has your fever been 	at gaano kataas ang iyong lagnat	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+en	tl	 and i have a cough too 	at may ubo rin ako	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN

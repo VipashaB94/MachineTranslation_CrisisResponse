@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	id	about how long have these symptoms been going on?	sudah berapa lama gejala-gejala ini berlangsung?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and all chest pain should be treated this way especially with your age	dan semua nyeri dada harus ditangani dengan cara ini terutama di usia Anda	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and along with a fever	dan bersama dengan demam	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and also needs to be checked your cholesterol blood pressure	dan tekanan darah serta kolesterol Anda juga perlu diperiksa	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and are you having a fever now?	dan apakah Anda sedang demam sekarang?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and are you having this chest pain now?	dan apakah Anda merasakan nyeri dada ini sekarang?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and besides do you have difficulty breathing	dan apakah Anda juga kesulitan bernapas?	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and can you tell me what other symptoms are you having along with this?	dan bisakah Anda ceritakan gejala lain yang Anda alami bersama dengan gejala ini?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and how high has your fever been	dan pernah sampai berapa tinggi demam Anda?	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+en	id	and i have a cough too	dan saya juga batuk	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk

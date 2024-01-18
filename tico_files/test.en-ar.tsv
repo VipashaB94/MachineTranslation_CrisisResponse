@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	ar	 about how long have these symptoms been going on? 	منذ متى لا تزال هذه الأعراض مستمرة تقريبًا؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and all chest pain should be treated this way especially with your age 	وينبغي علاج كل آلام الصدر بهذه الطريقة خاصة في عمرك	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and along with a fever 	وبالإضافة إلى الحمى	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and also needs to be checked your cholesterol blood pressure 	ويلزم أيضًا فحص ضغط كوليسترول الدم لديك	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and are you having a fever now? 	وهل تعاني من الحمى الآن؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and are you having this chest pain now? 	وهل تشعر بهذا الألم في الصدر الآن؟	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and besides do you have difficulty breathing 	وبالإضافة إلى ذلك هل لديك صعوبة في التنفس	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and can you tell me what other symptoms are you having along with this? 	وهل يمكنك إخباري بالأعراض الأخرى التي لديك بالإضافة إلى هذا؟	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and how high has your fever been 	وما مدى ارتفاع درجة الحرارة الذي أصابك	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	ar	 and i have a cough too 	وأعاني من السعال أيضًا	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL

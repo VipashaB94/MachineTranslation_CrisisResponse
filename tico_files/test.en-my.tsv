@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+en	my	 about how long have these symptoms been going on? 	ဒီရောဂါလက္ခဏာတွေ ဖြစ်နေတာ ဘယ်လောက် ကြာသွားပြီလဲ	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and all chest pain should be treated this way especially with your age 	နောက်ပြီး အထူးသဖြင့် ခင်ဗျား ရဲ့ အသက်အရွယ်မှာ ရင်ဘတ်အောင့်တာ အားလုံးကို ဒီနည်းနဲ့ ကုသရပါတယ်	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and along with a fever 	နောက်ပြီး ဖျားလည်း ဖျားနေတယ်	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and also needs to be checked your cholesterol blood pressure 	နောက်ပြီး ခင်ဗျားရဲ့ ကိုလက်စထရောနဲ့ သွေးပေါင်ချိန်ကို စစ်ဆေးဖို့လည်း လိုတယ်	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and are you having a fever now? 	နောက် ခင်ဗျားမှာ အခု အဖျား ရှိနေလား	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and are you having this chest pain now? 	ခင်ဗျား အခု ရင်ဘတ် အောင့်နေသေးလား။	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and besides do you have difficulty breathing 	နောက် ဒါ့အပြင် ခင်ဗျားမှာ အသက်ရှုရတာ ခက်သလား	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and can you tell me what other symptoms are you having along with this? 	နောက်ပြီး ဒါနဲ့အတူ တခြား ရောဂါလက္ခဏာတွေ ဘာတွေ ရှိတယ်ဆိုတာကို ပြောပြပါ။	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and how high has your fever been 	နောက်ပြီး ခင်ဗျား ကိုယ်အပူချိန်က ဘယ်လောက်အထိ မြင့်တက်သလဲ	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+en	my	 and i have a cough too 	ကျွန်တော်/ကျွန်မ ချောင်းလည်း ဆိုးပါတယ်	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=

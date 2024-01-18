@@ -1,0 +1,11 @@
+sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+en	hi	 about how long have these symptoms been going on? 	ये लक्षण लगभग कितने समय से चल रहे हैं?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and all chest pain should be treated this way especially with your age 	और विशेष रूप से आपकी आयु वाले व्यक्तियों में छाती में दर्द होने के सभी मामलों का उपचार इस तरह से किया जाना चाहिए	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and along with a fever 	और बुखार के साथ	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and also needs to be checked your cholesterol blood pressure 	और आपके कोलेस्ट्रॉल रक्तचाप की जाँच भी की जानी चाहिए	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and are you having a fever now? 	और क्या आपको अभी बुखार है?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and are you having this chest pain now? 	और क्या अब आपको छाती में यह दर्द हो रहा है?	CMU_1:8	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and besides do you have difficulty breathing 	और इसके अलावा क्या आपको साँस लेने में कठिनाई होती है	CMU_1:9	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and can you tell me what other symptoms are you having along with this? 	और क्या आप मुझे बता सकते हैं कि इसके साथ-साथ आपके और क्या लक्षण हैं?	CMU_1:10	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and how high has your fever been 	और आपका बुखार कितना उच्च रहा है	CMU_1:13	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+en	hi	 and i have a cough too 	और मुझे खांसी भी है	CMU_1:14	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
