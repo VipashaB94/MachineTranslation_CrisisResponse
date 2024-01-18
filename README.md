@@ -2,9 +2,11 @@
 
 This repository contains the code to use the Microsoft Azure and Google Cloud translation services to translate the full TICO-19 dataset from each language into English, and calculate the BLEU scores for each. My collaborator ran the same translations from English to the target languages. As the TICO-19 dataset is large, running this script on the full dataset takes significant time. Therefore, toy files containing the first 10 sentences of data for each language have been provided here, in order to conveniently demonstrate the code functionality. The full dataset with all sentences can be downloaded [here](https://tico-19.github.io/).
 
+This project was completed as part of a class titled 'Language Technologies for Crisis Response' at the University of Washington.
+
 ## Project Overview
 
-Are currently available machine translation (MT) systems ready for pandemic response? This paper aims to answer this question by evaluating the performance of two existing systems against the TICO-19 dataset, a corpus of content related to the COVID-19 pandemic translated into 38 languages. Two MT systems (Google and Microsoft) were used for translation, both from English to the target languages and from the target languages to English. Three different automatic evaluation metrics were used and analyzed (BLEU, BERTscore, and Comet), and a limited subset of translations were scored using human evaluation. In addition, we provide an analysis based on language status and region.
+Are currently available machine translation (MT) systems ready for pandemic response? This project aims to answer this question by evaluating the performance of two existing systems against the TICO-19 dataset, a corpus of content related to the COVID-19 pandemic translated into 38 languages. Two MT systems (Google and Microsoft) were used for translation, both from English to the target languages and from the target languages to English. Three different automatic evaluation metrics were used and analyzed (BLEU, BERTscore, and Comet), and a limited subset of translations were scored using human evaluation. In addition, we provide an analysis based on language status and region.
 
 ## Running the scripts
 
