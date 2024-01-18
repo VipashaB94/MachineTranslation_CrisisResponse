@@ -24,5 +24,5 @@ Each script iterates through a directory containing the TICO-19 files to access 
 + **tico_files** --> Toy Tico-19 files that can be used to demo the code
 + **microsoft_output** --> Empty folder where output files from azure_translate.py will be saved upon running the code
 + **google_output** --> Empty folder where output files from azure_translate.py will be saved upon running the code
-+ **results** --> Results obtained from translating each language within the full TICO-19 dataset into English, as well as corresponding BLEU scores. which are presented in the final report. Results translating from English to the target language (obtained by my collaborator) are not included in this repository but are presented in the final report. Note: All BERT and COMET scores were run by my collaborator due to compatibility issues.
++ **results** --> Results obtained from translating each language into English using the full TICO-19 dataset, as well as corresponding BLEU scores. which are presented in the final report. Results translating from English to the target language (obtained by my collaborator) are not included in this repository but are presented in the final report. Note: All BERT and COMET scores were run by my collaborator due to compatibility issues.
 + **final_report** --> The final paper outlining results and findings for this project.
