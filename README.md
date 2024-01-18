@@ -1,6 +1,6 @@
 # Machine Translation for Pandemic Response
 
-This repository contains the code to use the Microsoft Azure and Google Cloud translation services to translate the full TICO-19 dataset from each language into English, and calculate the BLEU scores for each. My collaborator ran the same translations from English to the target languages. As the TICO-19 dataset is large, running this script on the full dataset takes significant time. Therefore, toy files containing the first 10 sentences of data for each language have been provided here, in order to conveniently demonstrate the code functionality. The full dataset with all sentences can be downloaded [here] (https://tico-19.github.io/).
+This repository contains the code to use the Microsoft Azure and Google Cloud translation services to translate the full TICO-19 dataset from each language into English, and calculate the BLEU scores for each. My collaborator ran the same translations from English to the target languages. As the TICO-19 dataset is large, running this script on the full dataset takes significant time. Therefore, toy files containing the first 10 sentences of data for each language have been provided here, in order to conveniently demonstrate the code functionality. The full dataset with all sentences can be downloaded [here](https://tico-19.github.io/).
 
 ## Project Overview
 
